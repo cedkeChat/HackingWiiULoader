@@ -1,2 +1,2 @@
-# Nintendo-Wii-U-PYE
+# WiiUHackingGame
 Small homebrew app to hack Wii U games easily even simpler than WiiUGameHacking
